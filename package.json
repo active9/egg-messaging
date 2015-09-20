@@ -1,0 +1,19 @@
+{
+    "name": "egg-messaging",
+    "version": "1.0.0",
+    "description": "A simple in-memory messaging system.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Active 9 LLC.",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/active9/egg-messaging"
+    },
+    "bugs": {
+        "url": "https://github.com/active9/egg-messaging/issues"
+    },
+    "homepage": "https://github.com/active9/egg-messaging"
+}
